@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My nam is Alanjasper
+### My name is Alanjasper
 
 I am currently working on C++
 I have an interest in algorithm and data structure 🧠 💻
