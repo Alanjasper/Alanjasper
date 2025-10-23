@@ -1,15 +1,12 @@
 <div align="center">
 
-🌈✨ **Welcome to My Colorful GitHub World!** ✨🌈  
-💖 *Proudly coding with love, sass, and rainbows!* 💖  
+🌈✨ Hé sờ lô hô sờ li li mn ✨🌈  
 
 ---
 
-🎨 **About Me** 🎨  
-💅 Name: *Your Name*  
-🏳️‍🌈 Pronouns: He / Him / Fabulous ✨  
-💻 Passion: Turning caffeine into code ☕  
-🌸 Motto: *“Be yourself — there’s no one more powerful!”* 🌟  
+🎨 **VỀ TÔI** 🎨  
+💅 Tên: Alan Trần (Jasper)
+☢️ GIỚI TÍNH ĐỰC 
 
 ---
 
