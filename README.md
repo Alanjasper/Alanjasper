@@ -1,4 +1,4 @@
-<h1 align="center">🐾 Xin chào, mình là i 🦝</h1>
+<h1 align="center">🐾 Xin chào, mình là Nhật Anh 🦝</h1>
 <p align="center">
   Học sinh tiểu học • Yêu lập trình • Nghiện raccoon
 </p>
