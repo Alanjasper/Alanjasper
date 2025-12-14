@@ -49,4 +49,16 @@
 <p align="center">
   <i>Code mỗi ngày một ít, giỏi lên mỗi ngày một tí</i>
 </p>
+<h1 align="center">i 🦝</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-🔥-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-🧠-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Push%20Shark-🦈-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Draw%20Cowboy-🤠-brown?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>just vibe & code</i>
+</p>
 
