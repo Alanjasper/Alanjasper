@@ -1,6 +1,6 @@
 <h1 align="center">🐾 Xin chào, mình là Nhật Anh 🦝</h1>
 <p align="center">
-  Học sinh tiểu học • Yêu lập trình • Nghiện raccoon
+  KO ổn với lập trình
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 ## 👤 Giới thiệu nhanh
 - 🎒 Học sinh **Tiểu học Võ Văn Hát**
 - 📍 Phường Phước Long, TP. Hồ Chí Minh
-- 🦝 Fan cứng của **raccoon (gấu mèo)**
 
 ---
 
@@ -42,14 +41,8 @@
 ## 🎯 Mục tiêu
 - 🚀 Giỏi **C++** hơn nữa
 - 🌐 Làm web xịn bằng **HTML / CSS / JS**
-- 🦝 Vừa code vừa ngắm raccoon cho đỡ stress
 
 ---
-
-<p align="center">
-  <i>Code mỗi ngày một ít, giỏi lên mỗi ngày một tí</i>
-</p>
-<h1 align="center">i 🦝</h1>
 
 ## 🏆 Achievements
 
